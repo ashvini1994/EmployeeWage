@@ -24,7 +24,7 @@ namespace EmpWage
             {
                 Console.WriteLine("Employee is Absent");
             }
-                Console.ReadKey();
+             
         }
     }
 }
